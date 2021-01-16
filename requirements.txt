@@ -14,3 +14,5 @@ cachetools==3.0.0
 # Internal requirements
 gunicorn==19.9.0
 tqdm==4.30.0
+h5py==2.10.0
+boto3
